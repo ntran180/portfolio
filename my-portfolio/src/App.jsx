@@ -37,7 +37,12 @@ function App() {
       </section>
 
       <footer id="contact">
-        <p>Get in touch — ntran180@uw.edu</p>
+        <div classname="footer-links">
+        <p>Hit me up!</p>
+        <a href="ntran180@uw.edu">ntran180@uw.edu</a><br />
+        <a href="https://github.com/ntran180">GitHub</a> <br/>
+        <a href="www.linkedin.com/in/nam-tran-b99872295">LinkedIn</a>
+        </div>
       </footer>
     </div>
   )
